@@ -990,9 +990,9 @@
       "item": "coats",
       "amount": "1000",
       "discount": true,
-      "beforeDiscount": "79.99",
+      "beforeDiscount": 79.99,
       "category": "clothes",
-      "price": "49.99",
+      "price": 49.99,
       "desc": "Fitted box coat made of thick, soft jersey fabric with wool blend.",
       "material": [
         {
@@ -1045,7 +1045,7 @@
       "category": "clothes",
       "discount": "false",
       "beforeDiscount": "",
-      "price": "29.99",
+      "price": 29.99,
       "desc": "low stand up collar with press stud, fastening front zip up fastening",
       "material": [
         {
@@ -1084,8 +1084,8 @@
       "amount": 999,
       "category": "clothes",
       "discount": "true",
-      "beforeDiscount": "15.99",
-      "price": "13.99",
+      "beforeDiscount": 15.99,
+      "price": 13.99,
       "desc": "model’s height: 186 cm",
       "material": [
         {
@@ -1125,7 +1125,7 @@
       "category": "clothes",
       "discount": false,
       "beforeDiscount": "",
-      "price": "7.99",
+      "price": 7.99,
       "desc": "model’s height: 186 cm",
       "material": [
         {
@@ -1161,7 +1161,7 @@
       "category": "clothes",
       "discount": false,
       "beforeDiscount": "",
-      "price": "7.99",
+      "price": 7.99,
       "desc": "model’s height: 186 cm",
       "material": [
         {
@@ -1201,7 +1201,7 @@
       "category": "clothes",
       "discount": false,
       "beforeDiscount": "",
-      "price": "5.99",
+      "price": 5.99,
       "desc": "round neck,\nshort sleeves",
       "material": [
         {
@@ -1249,7 +1249,7 @@
       "category": "clothes",
       "discount": false,
       "beforeDiscount": "",
-      "price": "15.99",
+      "price": 15.99,
       "desc": "short sleeves",
       "material": [
         {
@@ -1289,7 +1289,7 @@
       "category": "clothes",
       "discount": false,
       "beforeDiscount": "",
-      "price": "7.99",
+      "price": 7.99,
       "desc": "round neck with trimming",
       "material": [
         {
@@ -1317,7 +1317,7 @@
       "category": "clothes",
       "discount": false,
       "beforeDiscount": "",
-      "price": "7.99",
+      "price": 7.99,
       "desc": "model’s height: 187 cm",
       "material": [
         {
@@ -1354,7 +1354,7 @@
       "category": "clothes",
       "discount": false,
       "beforeDiscount": "",
-      "price": "7.99",
+      "price": 7.99,
       "desc": "model’s height: 187 cm",
       "material": [
         {
@@ -1386,7 +1386,7 @@
       "category": "clothes",
       "discount": false,
       "beforeDiscount": "",
-      "price": "19.99",
+      "price": 19.99,
       "desc": " ",
       "material": [
         {
@@ -1434,7 +1434,7 @@
       "category": "clothes",
       "discount": false,
       "beforeDiscount": "",
-      "price": "7.99",
+      "price": 7.99,
       "desc": "round neck with trimming,\nshort sleeves",
       "material": [
         {
@@ -1474,7 +1474,7 @@
       "category": "clothes",
       "discount": false,
       "beforeDiscount": "",
-      "price": "15.99",
+      "price": 15.99,
       "desc": "model’s height: 186 cm",
       "material": [
         {
@@ -1510,7 +1510,7 @@
       "category": "clothes",
       "discount": false,
       "beforeDiscount": "",
-      "price": "15.99",
+      "price": 15.99,
       "desc": "",
       "material": [
         {
@@ -1563,7 +1563,7 @@
       "category": "clothes",
       "discount": false,
       "beforeDiscount": "",
-      "price": "5.99",
+      "price": 5.99,
       "desc": "model’s height: 188 cm",
       "material": [
         {
@@ -1591,7 +1591,7 @@
       "category": "clothes",
       "discount": false,
       "beforeDiscount": "",
-      "price": "12.99",
+      "price": 12.99,
       "desc": "long sleeves",
       "material": [
         {
@@ -1628,7 +1628,7 @@
       "category": "clothes",
       "discount": false,
       "beforeDiscount": "",
-      "price": "7.99",
+      "price": 7.99,
       "desc": "short sleeves",
       "material": [
         {
@@ -1668,7 +1668,7 @@
       "category": "clothes",
       "discount": false,
       "beforeDiscount": "",
-      "price": "7.99",
+      "price": 7.99,
       "desc": "short sleeves",
       "material": [
         {
@@ -1704,7 +1704,7 @@
       "category": "clothes",
       "discount": false,
       "beforeDiscount": "",
-      "price": "12.99",
+      "price": 12.99,
       "desc": "model’s height: 184 cm",
       "material": [
         {
@@ -1740,7 +1740,7 @@
       "category": "clothes",
       "discount": false,
       "beforeDiscount": "",
-      "price": "7.99",
+      "price": 7.99,
       "desc": "short sleeves",
       "material": [
         {
@@ -1768,7 +1768,7 @@
       "category": "clothes",
       "discount": false,
       "beforeDiscount": "",
-      "price": "12.99",
+      "price": 12.99,
       "desc": "model’s height: 186 cm",
       "material": [
         {
@@ -1808,7 +1808,7 @@
       "category": "clothes",
       "discount": false,
       "beforeDiscount": "",
-      "price": "15.99",
+      "price": 15.99,
       "desc": "model’s height: 185 cm",
       "material": [
         {
@@ -1844,7 +1844,7 @@
       "category": "clothes",
       "discount": false,
       "beforeDiscount": "",
-      "price": "15.99",
+      "price": 15.99,
       "desc": "model’s height: 186 cm",
       "material": [
         {
@@ -1880,7 +1880,7 @@
       "category": "clothes",
       "discount": false,
       "beforeDiscount": "",
-      "price": "19.99",
+      "price": 19.99,
       "desc": "round neck,\nlong sleeves,\nribbed neckline, hemline and cuffs",
       "material": [
         {
@@ -1920,7 +1920,7 @@
       "category": "clothes",
       "discount": false,
       "beforeDiscount": "",
-      "price": "39.99",
+      "price": 39.99,
       "desc": "two side sewn-in pockets,\nlong sleeves with button cuffs",
       "material": [
         {
@@ -1964,7 +1964,7 @@
       "category": "clothes",
       "discount": false,
       "beforeDiscount": "",
-      "price": "19.99",
+      "price": 19.99,
       "desc": "low stand up collar,\nlong sleeves with classic cuffs",
       "material": [
         {
@@ -2012,7 +2012,7 @@
       "category": "clothes",
       "discount": false,
       "beforeDiscount": "",
-      "price": "19.99",
+      "price": 19.99,
       "desc": "high stand up collar",
       "material": [
         {
@@ -2054,7 +2054,7 @@
       "category": "clothes",
       "discount": false,
       "beforeDiscount": "",
-      "price": "19.99",
+      "price": 19.99,
       "desc": "long fitted leg,\ntwo front pockets",
       "material": [
         {
@@ -2095,7 +2095,7 @@
       "category": "clothes",
       "discount": false,
       "beforeDiscount": "",
-      "price": "12.99",
+      "price": 12.99,
       "desc": "",
       "material": [
         {
@@ -2143,7 +2143,7 @@
       "category": "clothes",
       "discount": false,
       "beforeDiscount": "",
-      "price": "5.99",
+      "price": 5.99,
       "desc": "V neck,\nshort sleeves",
       "material": [
         {
@@ -2180,7 +2180,7 @@
       "category": "clothes",
       "discount": false,
       "beforeDiscount": "",
-      "price": "19.99",
+      "price": 19.99,
       "desc": "zip and button fastening,\nopen front pockets",
       "material": [
         {
@@ -2229,7 +2229,7 @@
       "category": "clothes",
       "discount": false,
       "beforeDiscount": "",
-      "price": "49.99",
+      "price": 49.99,
       "desc": "notch lapels,\ntwo-button fastening,\nfront flap pockets,\nsingle vented back hem,\nsmooth lining finish",
       "material": [
         {
@@ -2278,7 +2278,7 @@
       "category": "clothes",
       "discount": "true",
       "beforeDiscount": "69.99",
-      "price": "29.99",
+      "price": 29.99,
       "desc": "",
       "material": [
         {
@@ -2335,8 +2335,8 @@
       "amount": "1000",
       "category": "clothes",
       "discount": "true",
-      "beforeDiscount": "19.99",
-      "price": "5.99",
+      "beforeDiscount": 19.99,
+      "price": 5.99,
       "desc": "",
       "material": [
         {
@@ -2384,7 +2384,7 @@
       "category": "accessories",
       "discount": false,
       "beforeDiscount": "",
-      "price": "25.99",
+      "price": 25.99,
       "desc": "round toes",
       "material": [
         {
@@ -2424,7 +2424,7 @@
       "category": "accessories",
       "discount": "false",
       "beforeDiscount": "",
-      "price": "39.99",
+      "price": 39.99,
       "desc": "zip fastening",
       "material": [
         {
@@ -2460,7 +2460,7 @@
       "category": "accessories",
       "discount": "false",
       "beforeDiscount": "",
-      "price": "12.99",
+      "price": 12.99,
       "desc": "",
       "material": [
         {
@@ -2487,8 +2487,8 @@
       "amount": "1000",
       "category": "accessories",
       "discount": "true",
-      "beforeDiscount": "14.99",
-      "price": "3.99",
+      "beforeDiscount": 14.99,
+      "price": 3.99,
       "desc": "ECO AWARE\n\nRecycled polyester is a synthetic fibre derived from PET plastic bottles and/or recycled post-consumption materials in a process that allows for the reduction of water and energy consumption. Fabrics made from recycled polyester are durable, quick-drying and stretch-resistant.",
       "material": [
         {
@@ -2520,8 +2520,8 @@
       "amount": "1000",
       "category": "accessories",
       "discount": "true",
-      "beforeDiscount": "29.99",
-      "price": "12.99",
+      "beforeDiscount": 29.99,
+      "price": 12.99,
       "desc": "",
       "material": [
         {
@@ -2549,7 +2549,7 @@
       "category": "accessories",
       "discount": "false",
       "beforeDiscount": "",
-      "price": "7.99",
+      "price": 7.99,
       "desc": "",
       "material": [
         {
@@ -3724,8 +3724,8 @@
       "amount": "1000",
       "category": "clothes",
       "discount": "true",
-      "beforeDiscount": "24.99",
-      "price": "9.99",
+      "beforeDiscount": 24.99,
+      "price": 9.99,
       "desc": "Height of female model: 177 cm",
       "material": [
         {
@@ -3764,8 +3764,8 @@
       "amount": "1000",
       "category": "clothes",
       "discount": "true",
-      "beforeDiscount": "54.99",
-      "price": "19.99",
+      "beforeDiscount": 54.99,
+      "price": 19.99,
       "desc": "placket-concealed zip and press stud fastening,\ntwo pockets with flaps and press stud fastening",
       "material": [
         {
@@ -4753,7 +4753,7 @@
           "category": "clothes",
           "discount": false,
           "beforeDiscount": "",
-          "price": "7.99",
+          "price": 7.99,
           "desc": "model’s height: 187 cm",
           "material": [
             {
@@ -4948,12 +4948,12 @@
       "items": [
         {
           "name": "Mickey Mouse T-shirt",
-          "beforeDiscount": "15.99",
+          "beforeDiscount": 15.99,
           "item": "t-shirts",
           "amount": "1000",
           "category": "clothes",
           "discount": "true",
-          "price": "13.99",
+          "price": 13.99,
           "desc": "model’s height: 186 cm",
           "material": [
             {
